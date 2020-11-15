@@ -37,8 +37,9 @@ I am a student of Technology in Internet Systems and currently do an internship 
 <strong>⚡ Fun facts</strong>
    
    - I speak fluent German :100:
-   - I am Vegan but hate animals:
+   - I have a dog called Mel :dog:
    - I love very very much [guilhermesoterio](https://github.com/guilhermesoterio) :heart: :heart: :heart:
+   - I have stone heart
 
 
 
